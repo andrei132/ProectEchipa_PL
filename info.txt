@@ -1,0 +1,75 @@
+Tema Proectului: Aparat de multifunctional pentru utilizarea Gunuiolui
+
+Mod implementare:
+	
+	Vine o cantitate de gunoi ne sortata;
+
+	Idee e sortarea in 4 categorii:
+		
+		Hirtie/carton, Plastic/Metal, Sticla, Reziduale	
+		
+	
+	1.Vine gunoiul
+	
+	2.cu ajutorul unuor senzori depisteaza categoria deseului(iPhone12 sau cu toate competentele noastre fizice, masa/volum=desitate, presupunem ca desitatea e distincta la toate)	
+	
+	Hirtia/carton:
+		
+		1. Deseul de categoria data este presat, si adus la forma care se incadreaza in plan cu o baza de 4 vectori(detalii Paul Flondor/Mircea Sularia).
+		
+		2.cintarirea masei deseului
+		
+		3.Lipirea tuturor datelor deste deseu
+		
+	Plastic/Metal:
+	
+		Sortarea in 2 categorii mai restrinse: Plastic si Metal
+		
+		Plastic:
+			
+			1.PLasticul este spalat
+			
+			2. Plasticul este pus intr-un container
+			
+			2.1 Daca masa este >=10kg trece in starea 3, daca nu asteapta
+			
+			3.Pasticul este presat in forma unui cub
+			
+			4.Cubul este expulsaz afara
+			
+		Metal:
+			
+			1.Metalul este curatat
+			
+			2.Metalul este cintarit
+			
+			3.Iesire: Cite kg are: x kg;
+			
+	Sticla:
+	
+		1.Sticla este spalata
+		
+		2.Sticla este sortata in 2 categorii: Intreaga si deteriorata
+		
+		
+		Deteriorata:
+			
+			1.Este depozitata intr-un container cu alte sticle deteriorate
+		
+			
+		Intregi:
+		
+			1.Este depozitata intr-un container cu alte sticle intregi
+			
+			2.TODO pret
+			
+	Reziduale:
+		
+		1. Trimite in alt automat deseul pentru a fuziona combustibil pur Biologic
+		
+		2. Asteapta intaorcerea combustibilului
+		
+		3.Se depoziteaza in rezervor combustibilul, unde se aliminteaza
+		
+			
+			
