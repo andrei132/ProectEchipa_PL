@@ -1,0 +1,13 @@
+//Calculele pentru Lungimea de microinstructiune
+
++ L_miTip1 = 1 + n_iesiri;
+	
+	L_miTip1 = 1 + 6 = 7;
+	
++ L_miTip0 = 1 + n_biti_decizie + n_biti_adresa;
+
+	L_miTip0 = 1 + 3 + 5 = 9;
+	
++ L_mi = max(L_miTip0,L_miTip1);
+	
+	L_mi = max(9,7) = 9;	 
