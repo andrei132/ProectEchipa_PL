@@ -3,11 +3,11 @@
 
 + Impartirea rolurilor
 	
-	Elaborarea schemei bloc - [x]
+	Elaborarea schemei bloc - &#9745;
 		
 	Descrierea funcţionării - Liviu
 	
-	Elaborarea organigramei - [x]
+	Elaborarea organigramei - &#9745;
 	
 	Calculul lungimii microinstructiunii - David
 	
@@ -15,16 +15,16 @@
 	
 	Completarea conţinutului memoriei de microprogram - Andrei
 	
-	Alegerea componentelor digitale folosite - []
+	Alegerea componentelor digitale folosite - &#9744;
 	
-	Proiectarea cablajului - []
+	Proiectarea cablajului - &#9744;
 	
-	Scrierea documentaţiei pentru activităţile derulate - []
+	Scrierea documentaţiei pentru activităţile derulate - &#9744;
 	
-	Integrarea documentaţiei de proiect - []
+	Integrarea documentaţiei de proiect - &#9744;
 	
-	Elaborarea prezentării .pptx - []
+	Elaborarea prezentării .pptx - &#9744;
 	
-	Prezentare proiect - []
+	Prezentare proiect - &#9744;
 
 Autori: 4 studenti de treaba
