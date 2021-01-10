@@ -9,11 +9,11 @@
 	
 	Elaborarea organigramei - &#9745;
 	
-	Calculul lungimii microinstructiunii - David
+	Calculul lungimii microinstructiunii - &#9745;
 	
 	Proiectarea schemei unităţii de comandă microprogramate - Doritori (Cezar)
 	
-	Completarea conţinutului memoriei de microprogram - Andrei
+	Completarea conţinutului memoriei de microprogram - &#9745;
 	
 	Alegerea componentelor digitale folosite - &#9744;
 	
