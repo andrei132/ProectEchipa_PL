@@ -11,7 +11,7 @@
 	
 	Calculul lungimii microinstructiunii - &#9745;
 	
-	Proiectarea schemei unităţii de comandă microprogramate - Doritori (Cezar)
+	Proiectarea schemei unităţii de comandă microprogramate - &#9745;
 	
 	Completarea conţinutului memoriei de microprogram - &#9745;
 	
