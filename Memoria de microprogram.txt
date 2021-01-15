@@ -12,6 +12,8 @@
 	
 	sticla		101
 	
+	masa		110
+	
 	întreg		111
 	
 
