@@ -15,7 +15,7 @@
 	
 	(2)Completarea conţinutului memoriei de microprogram - &#9745;
 	
-	(3)Alegerea componentelor digitale folosite - &#9744;
+	(3)Alegerea componentelor digitale folosite - &#9745;
 	
 	(3)Proiectarea cablajului - &#9744;
 	
