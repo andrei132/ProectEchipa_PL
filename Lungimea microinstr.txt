@@ -11,3 +11,17 @@
 + L_mi = max(L_miTip0,L_miTip1);
 	
 	L_mi = max(9,7) = 9;	 
+	
+//Calculele pentru Lungimea de microinstructiune cu o memorie de 64 cuvinte
+
++ L_miTip1 = 1 + n_iesiri;
+	
+	L_miTip1 = 1 + 6 = 7;
+	
++ L_miTip0 = 1 + n_biti_decizie + n_biti_adresa;
+
+	L_miTip0 = 1 + 3 + 6 = 10;
+	
++ L_mi = max(L_miTip0,L_miTip1);
+	
+	L_mi = max(10,7) = 10;
