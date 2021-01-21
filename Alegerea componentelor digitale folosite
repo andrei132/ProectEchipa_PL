@@ -1,5 +1,9 @@
 Stari 24;
-L_mi 9;
 
-De cautat minim
-24 x 9
+L_mi 10;
+
+Memorie aleasa 3 * memorie_64x4_CAT22C10;
+
+Multiplexor activ pe 0 multiplexor_54150;
+
+Numaratorul ales numarator_SN74193;
